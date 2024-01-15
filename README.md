@@ -8,7 +8,7 @@ JavaScript nedir? - sizi JavaScript ve tarihçesi ile tanıştırır.
 
 [dev.to](https://dev.to/haktan/javascript-nedir-4oim)
 
-Bir JavaScript kaynak kodu düzenleyicisi yükleyin - JavaScript kodunu düzenlemek için Visual Studio Code'u nasıl yükleyeceğinizi öğrenin.
+Javascript Kod Editörleri - JavaScript kodunu düzenlemek için Visual Studio Code'u nasıl yükleyeceğinizi öğrenin.
 
 Web Geliştirme Araçlarının Konsol Sekmesiyle Tanışın - web tarayıcılarındaki Konsol penceresine temel bir giriş yapmanızı sağlar.
 
