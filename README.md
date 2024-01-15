@@ -10,6 +10,8 @@ Web Geliştirme Araçlarının Konsol Sekmesiyle Tanışın - web tarayıcılar�
 
 JavaScript Merhaba Dünya - ünlü "Hello World!" mesajını görüntüleyen ilk JavaScript kodunun nasıl çalıştırılacağını öğrenin.
 
+---
+
 ### Temel Bilgiler
 
 Syntax / Sözdizimi - boşluk, deyimler, tanımlayıcılar, anahtar kelimeler, ifadeler ve yorumlar dahil olmak üzere JavaScript sözdizimini açıklayın.
@@ -32,6 +34,8 @@ Object - nesne türünü tanıtın.
 
 Primitive vs. reference değerleri - JavaScript'teki ilkel ve referans değerler dahil olmak üzere iki değer türünü ve aralarındaki farkları anlayın.
 
+---
+
 ### Operators - Operatörler
 
 Aritmetik operatörler - toplama (+), çıkarma (-), çarpma (*) ve bölme (/) dahil olmak üzere aritmetik operatörleri tanıtın.
@@ -51,6 +55,8 @@ Mantıksal atama operatörleri - ||=, &&= ve ??= dahil olmak üzere mantıksal a
 Nullish birleştirme operatörü (??) - iki değer kabul eder ve ilki null veya undefined ise ikinci değeri döndürür.
 
 Üs alma operatörü - Math.pow() yöntemine benzer şekilde üssün kuvvetine göre bir taban hesaplayan üs alma operatörünü (**) size tanıtır.
+
+---
 
 ### Kontrol Akışı İfadeleri
 
@@ -75,6 +81,8 @@ break - bir döngünün nasıl zamanından önce sonlandırılacağını öğren
 continue - bir döngünün mevcut yinelemesini nasıl atlayacağınızı ve bir sonrakine nasıl atlayacağınızı gösterir.
 
 Virgül operatörü - aynı anda birden fazla değişkeni güncellemek için bir for döngüsünde virgül operatörünü nasıl kullanacağınız konusunda size rehberlik eder.
+
+---
 
 ### Function'lar
 
