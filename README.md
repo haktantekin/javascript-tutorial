@@ -12,9 +12,13 @@ Javascript Kod Editörleri - JavaScript kodunu düzenlemek için Visual Studio C
 
 [medium.com](https://haktantekin.medium.com/javascript-kod-edit%C3%B6rleri-4efb19c2624a)
 
-[dev.to]([https://dev.to/haktan/javascript-nedir-4oim](https://dev.to/haktan/javascript-kod-editorleri-1h8j))
+[dev.to](https://dev.to/haktan/javascript-kod-editorleri-1h8j)
 
 Web Geliştirme Araçlarının Konsol Sekmesiyle Tanışın - web tarayıcılarındaki Konsol penceresine temel bir giriş yapmanızı sağlar.
+
+[medium.com](https://haktantekin.medium.com/browserdaki-console-i%CC%87le-%C3%A7al%C4%B1%C5%9Fmak-01af34146d72)
+
+[dev.to](https://dev.to/haktan/browserdaki-console-ile-calismak-3lpn)
 
 JavaScript Merhaba Dünya - ünlü "Hello World!" mesajını görüntüleyen ilk JavaScript kodunun nasıl çalıştırılacağını öğrenin.
 
