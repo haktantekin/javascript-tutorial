@@ -4,7 +4,7 @@
 
 JavaScript nedir? - sizi JavaScript ve tarihçesi ile tanıştırır.
 
-[medium.com](https://encazip.com](https://medium.com/@haktantekin/javascript-ba%C5%9Flang%C4%B1%C3%A7ta-web-sayfalar%C4%B1n%C4%B1n-%C3%B6%C4%9Feleriyle-etkile%C5%9Fim-kurmak-i%C3%A7in-tasarlanm%C4%B1%C5%9F-bir-e1c35f80b2e7)
+[medium.com](https://medium.com/@haktantekin/javascript-ba%C5%9Flang%C4%B1%C3%A7ta-web-sayfalar%C4%B1n%C4%B1n-%C3%B6%C4%9Feleriyle-etkile%C5%9Fim-kurmak-i%C3%A7in-tasarlanm%C4%B1%C5%9F-bir-e1c35f80b2e7)
 [dev.to](https://dev.to/haktan/javascript-nedir-4oim)
 
 Bir JavaScript kaynak kodu düzenleyicisi yükleyin - JavaScript kodunu düzenlemek için Visual Studio Code'u nasıl yükleyeceğinizi öğrenin.
