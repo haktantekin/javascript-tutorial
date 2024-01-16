@@ -24,9 +24,9 @@
 
 [Number / Sayı](https://dev.to/haktan/javascript-numbers-5f5l) - JavaScript'in tamsayı ve kayan noktalı sayıları temsil etmek için Sayı türünü nasıl kullandığını öğrenin.
 
-Numeric Separator / Sayısal Ayırıcı - sayısal ayırıcı olarak alt çizgi kullanarak sayıları nasıl daha okunabilir hale getirebileceğinizi gösterin.
+[Numeric Separator / Sayısal Ayırıcı](https://dev.to/haktan/javascript-sayisal-ayirici-numeric-seperator-2b0g) - sayısal ayırıcı olarak alt çizgi kullanarak sayıları nasıl daha okunabilir hale getirebileceğinizi gösterin.
 
-Octal & binary literals - ikili değişmezler için destek sağlar ve sekizli değişmezleri temsil etme şeklini değiştirir.
+[Octal & binary literals](https://dev.to/haktan/es6da-sekizli-ve-ikili-degismezlere-hizli-bir-bakis-5ho) - ikili değişmezler için destek sağlar ve sekizli değişmezleri temsil etme şeklini değiştirir.
 
 Boolean - sizi Boolean türü ile tanıştırır.
 
