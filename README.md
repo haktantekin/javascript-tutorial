@@ -22,7 +22,7 @@
 
 [Data types / Veri Tipleri](https://dev.to/haktan/javascript-data-types-veri-tipleri-5op) - ilkel ve referans türleri de dahil olmak üzere JavaScript veri türlerini tanıtın.
 
-Number / Sayı - JavaScript'in tamsayı ve kayan noktalı sayıları temsil etmek için Sayı türünü nasıl kullandığını öğrenin.
+[Number / Sayı](https://dev.to/haktan/javascript-numbers-5f5l) - JavaScript'in tamsayı ve kayan noktalı sayıları temsil etmek için Sayı türünü nasıl kullandığını öğrenin.
 
 Numeric Separator / Sayısal Ayırıcı - sayısal ayırıcı olarak alt çizgi kullanarak sayıları nasıl daha okunabilir hale getirebileceğinizi gösterin.
 
