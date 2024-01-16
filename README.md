@@ -2,23 +2,11 @@
 
 ### Başlarken
 
-JavaScript nedir?
+[JavaScript nedir?](https://dev.to/haktan/javascript-nedir-4oim)
 
-[medium.com](https://medium.com/@haktantekin/javascript-ba%C5%9Flang%C4%B1%C3%A7ta-web-sayfalar%C4%B1n%C4%B1n-%C3%B6%C4%9Feleriyle-etkile%C5%9Fim-kurmak-i%C3%A7in-tasarlanm%C4%B1%C5%9F-bir-e1c35f80b2e7)
+[Javascript Kod Editörleri](https://dev.to/haktan/javascript-kod-editorleri-1h8j)  - JavaScript kodunu düzenlemek için Visual Studio Code'u nasıl yükleyeceğinizi öğrenin.
 
-[dev.to](https://dev.to/haktan/javascript-nedir-4oim)
-
-Javascript Kod Editörleri - JavaScript kodunu düzenlemek için Visual Studio Code'u nasıl yükleyeceğinizi öğrenin.
-
-[medium.com](https://haktantekin.medium.com/javascript-kod-edit%C3%B6rleri-4efb19c2624a)
-
-[dev.to](https://dev.to/haktan/javascript-kod-editorleri-1h8j)
-
-Web Geliştirme Araçlarının Konsol Sekmesiyle Tanışın - web tarayıcılarındaki Konsol penceresine temel bir giriş yapmanızı sağlar.
-
-[medium.com](https://haktantekin.medium.com/browserdaki-console-i%CC%87le-%C3%A7al%C4%B1%C5%9Fmak-01af34146d72)
-
-[dev.to](https://dev.to/haktan/browserdaki-console-ile-calismak-3lpn)
+[Web Geliştirme Araçlarının Konsol Sekmesiyle Tanışın](https://dev.to/haktan/browserdaki-console-ile-calismak-3lpn) - web tarayıcılarındaki Konsol penceresine temel bir giriş yapmanızı sağlar.
 
 JavaScript Merhaba Dünya - ünlü "Hello World!" mesajını görüntüleyen ilk JavaScript kodunun nasıl çalıştırılacağını öğrenin.
 
