@@ -2,11 +2,11 @@
 
 ### Başlarken
 
-[JavaScript nedir?](https://dev.to/haktan/javascript-nedir-4oim)
+[JavaScript nedir?](https://dev.to/haktan/javascript-nedir-4oim){:target="_blank"}
 
-[Javascript Kod Editörleri](https://dev.to/haktan/javascript-kod-editorleri-1h8j)  - JavaScript kodunu düzenlemek için Visual Studio Code'u nasıl yükleyeceğinizi öğrenin.
+[Javascript Kod Editörleri](https://dev.to/haktan/javascript-kod-editorleri-1h8j){:target="_blank"}  - JavaScript kodunu düzenlemek için Visual Studio Code'u nasıl yükleyeceğinizi öğrenin.
 
-[Web Geliştirme Araçlarının Konsol Sekmesiyle Tanışın](https://dev.to/haktan/browserdaki-console-ile-calismak-3lpn) - web tarayıcılarındaki Konsol penceresine temel bir giriş yapmanızı sağlar.
+[Web Geliştirme Araçlarının Konsol Sekmesiyle Tanışın](https://dev.to/haktan/browserdaki-console-ile-calismak-3lpn){:target="_blank"} - web tarayıcılarındaki Konsol penceresine temel bir giriş yapmanızı sağlar.
 
 JavaScript Merhaba Dünya - ünlü "Hello World!" mesajını görüntüleyen ilk JavaScript kodunun nasıl çalıştırılacağını öğrenin.
 
