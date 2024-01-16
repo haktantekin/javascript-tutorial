@@ -1,5 +1,7 @@
 # Javascript Makaleleri
 
+[JavaScript Tutorial](https://www.javascripttutorial.net/) sitesindeki makalelerin Türkçe'ye çevrilmiş halleridir.
+
 ### Başlarken
 
 [JavaScript nedir?](https://dev.to/haktan/javascript-nedir-4oim)
@@ -18,7 +20,7 @@
 
 [Variables / Değişkenler](https://dev.to/haktan/javascript-syntax-58gh) - değişkenleri nasıl bildireceğinizi gösterin.
 
-Data types / Veri türleri - ilkel ve referans türleri de dahil olmak üzere JavaScript veri türlerini tanıtın.
+[Data types / Veri Tipleri](https://dev.to/haktan/javascript-data-types-veri-tipleri-5op) - ilkel ve referans türleri de dahil olmak üzere JavaScript veri türlerini tanıtın.
 
 Number / Sayı - JavaScript'in tamsayı ve kayan noktalı sayıları temsil etmek için Sayı türünü nasıl kullandığını öğrenin.
 
