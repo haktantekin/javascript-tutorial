@@ -14,9 +14,9 @@
 
 ### Temel Bilgiler
 
-Syntax / Sözdizimi - boşluk, deyimler, tanımlayıcılar, anahtar kelimeler, ifadeler ve yorumlar dahil olmak üzere JavaScript sözdizimini açıklayın.
+[Syntax / Sözdizimi](https://dev.to/haktan/javascript-syntax-kge) - boşluk, deyimler, tanımlayıcılar, anahtar kelimeler, ifadeler ve yorumlar dahil olmak üzere JavaScript sözdizimini açıklayın.
 
-Variables / Değişkenler - değişkenleri nasıl bildireceğinizi gösterin.
+[Variables / Değişkenler](https://dev.to/haktan/javascript-syntax-58gh) - değişkenleri nasıl bildireceğinizi gösterin.
 
 Data types / Veri türleri - ilkel ve referans türleri de dahil olmak üzere JavaScript veri türlerini tanıtın.
 
